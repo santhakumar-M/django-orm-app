@@ -40,8 +40,7 @@ class StudentAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-(/home/sec/Pictures/Screenshots/out.png)
-
+![orm](out.png)
 
 ## RESULT
 
