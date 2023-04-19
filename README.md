@@ -38,7 +38,7 @@ class StudentAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-
+![image](out.png)
 
 ## RESULT
 Program executed successfully.
