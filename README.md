@@ -1,6 +1,7 @@
 # Django ORM Web Application
 
 ## AIM
+
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
@@ -10,13 +11,16 @@ Include your ER diagram here
 ## DESIGN STEPS
 
 ### STEP 1:
-Clone the problem from github.
+
+Clone the repository to Theia IDE. Start a new inside the project folder.
 
 ### STEP 2:
-Create the new app.
+
+Type the appropriate code for your table and provide datatypes to the columns.
 
 ### STEP 3:
-Enter the code for admin.py and model.py
+
+Create a report about project in readme.md file and upload the django-orm-app folder to your remote repository.
 
 ## PROGRAM
 ```
@@ -41,4 +45,5 @@ class StudentAdmin(admin.ModelAdmin):
 ![image](out.png)
 
 ## RESULT
-Program executed successfully.
+
+Thus, the project is developed to have Student Information Database.
